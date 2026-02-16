@@ -2,6 +2,10 @@
 
 This project implements a RESTful API for managing library books using Spring Boot.
 
+## Author 
+ISHIMWE Mireille
+ID: 26828
+
 ## Technologies Used
 
 - Java 21
