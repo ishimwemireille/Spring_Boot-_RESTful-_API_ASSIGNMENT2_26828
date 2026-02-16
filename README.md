@@ -1,7 +1,9 @@
 # Question 2 – Student Registration API
 
 This project implements a RESTful API for managing student registration and student information using Spring Boot.
-
+## Author 
+- ISHIMWE Mireille
+- ID: 26828
 ## Technologies Used
 
 - Java 21
